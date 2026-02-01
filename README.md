@@ -18,6 +18,9 @@ You must update these sections or the workflow will not work correctly.
 The workflow includes a sample DOCX file based on a fictional Silicon Valley engineer.
 This is only meant to illustrate how the DocX templating system works.
 
+![Resume Template Preview](https://drive.google.com/uc?export=download&id=1AJFg-Lu_9Jd1W8pvzNwGZZcpe-qs2sMY)
+
+
 You must:
 
 Upload your resume to Google Drive
