@@ -23,19 +23,19 @@ This is only meant to illustrate how the DocX templating system works.
 
 You must:
 
+Change the sample name "Justin Johnson" with your own.
+
+Change all the job titles, skills, and education to your own. 
+
+Save as a **docx file**
+
 Upload your resume to Google Drive
-
-Copy the Export as DOCX URL
-
-Replace the existing link inside the Resume Template Downloader node
-
-Update all template placeholders to match your resume structure
 
 If you skip this step, your resume output will be wrong.
 
 **2. Update the AI Resume Agent With Your Own Experience**
 
-The resume-customization AI agent currently uses a JSON block containing:
+The resume-customization AI agent currently uses a system message containing:
 
 Sample summary
 
